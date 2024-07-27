@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "438155285660",
+    "project_id": "urbanswiftdelivery-532fd",
+    "storage_bucket": "urbanswiftdelivery-532fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438155285660:android:1018051faef37689944959",
+        "android_client_info": {
+          "package_name": "com.example.pingo_learn_practical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438155285660-mbtt0bs4eghdsb51bl96lmrj1t9cde36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfvkhN7VSJjB6-Ty9xRzlGNNQhntWPWQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438155285660-mbtt0bs4eghdsb51bl96lmrj1t9cde36.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "438155285660-qtjpev484ae04bk727q7frffm09b42l0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.urbanswift.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438155285660:android:cc9e96fdf5cebf2f944959",
+        "android_client_info": {
+          "package_name": "com.urbanswift.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438155285660-mbtt0bs4eghdsb51bl96lmrj1t9cde36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfvkhN7VSJjB6-Ty9xRzlGNNQhntWPWQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438155285660-mbtt0bs4eghdsb51bl96lmrj1t9cde36.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "438155285660-qtjpev484ae04bk727q7frffm09b42l0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.urbanswift.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438155285660:android:17d22c70e9a00e38944959",
+        "android_client_info": {
+          "package_name": "com.urbanswift.delivary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438155285660-mbtt0bs4eghdsb51bl96lmrj1t9cde36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfvkhN7VSJjB6-Ty9xRzlGNNQhntWPWQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438155285660-mbtt0bs4eghdsb51bl96lmrj1t9cde36.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "438155285660-qtjpev484ae04bk727q7frffm09b42l0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.urbanswift.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

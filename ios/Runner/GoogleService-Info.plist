@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>438155285660-7f0phq03tn2b3q6mmu8nod18s8j79h61.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.438155285660-7f0phq03tn2b3q6mmu8nod18s8j79h61</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>438155285660-tlq7gglg311tngk5c9083ek7kqrn43u5.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC76yQuFxlJsij7euGUm51Rzzce7JLUIg4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>438155285660</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.pingoLearnPractical</string>
+	<key>PROJECT_ID</key>
+	<string>urbanswiftdelivery-532fd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>urbanswiftdelivery-532fd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:438155285660:ios:882af26bfdc7f68c944959</string>
+</dict>
+</plist>
