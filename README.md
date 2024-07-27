@@ -2,15 +2,14 @@
 
 A new Flutter project.
 
-## Getting Started
+## Here is sample video
+ 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/user-attachments/assets/2433382e-728c-493f-ac03-ba73bebfff21
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Here Firebase Remote config Screen Short
+
+![Screenshot 2024-07-27 at 8 27 48 PM](https://github.com/user-attachments/assets/bf46c86b-77ae-4492-9835-0ccbe15632e7)
