@@ -16,7 +16,9 @@ class CommentsScreen extends StatelessWidget {
     return BlocProvider(
       create: (context) => CommentBloc(
         context.read<AuthRepository>(),
-      )..add(FetchComments()),
+      )
+        ..add(InitializeRemoteConfig())
+        ..add(FetchComments()),
       child: const CommentsPage(),
     );
   }
@@ -127,7 +129,7 @@ class _CommentsPageState extends State<CommentsPage> {
                                     ),
                                 children: [
                                   TextSpan(
-                                    text: ' ${comment.email}',
+                                    text: ' ${state.isHideEmail! ? maskEmail(comment.email!) : comment.email}',
                                     style: Theme.of(context).textTheme.bodyMedium?.copyWith(
                                           fontWeight: FontWeight.bold,
                                         ),
@@ -148,5 +150,17 @@ class _CommentsPageState extends State<CommentsPage> {
         );
       }),
     );
+  }
+
+
+  String maskEmail(String email) {
+    int atIndex = email.indexOf('@');
+    if (atIndex <= 3) {
+      return email;
+    }
+    String firstPart = email.substring(0, 3);
+    String maskedPart = '*' * (atIndex - 3);
+    String domainPart = email.substring(atIndex);
+    return '$firstPart$maskedPart$domainPart';
   }
 }

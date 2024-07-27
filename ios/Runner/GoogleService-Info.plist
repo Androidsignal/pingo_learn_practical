@@ -3,23 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>438155285660-7f0phq03tn2b3q6mmu8nod18s8j79h61.apps.googleusercontent.com</string>
+	<string>510408589992-3ecgnhcam5jamig70hs29i6k20pivm4b.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.438155285660-7f0phq03tn2b3q6mmu8nod18s8j79h61</string>
+	<string>com.googleusercontent.apps.510408589992-3ecgnhcam5jamig70hs29i6k20pivm4b</string>
 	<key>ANDROID_CLIENT_ID</key>
-	<string>438155285660-tlq7gglg311tngk5c9083ek7kqrn43u5.apps.googleusercontent.com</string>
+	<string>510408589992-1pj2sb0ope0heb1j0p2puvf9uannlgpk.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
-	<string>AIzaSyC76yQuFxlJsij7euGUm51Rzzce7JLUIg4</string>
+	<string>AIzaSyCYnDT04rq8hZntHg2eaKOFdkdkd2U9NDM</string>
 	<key>GCM_SENDER_ID</key>
-	<string>438155285660</string>
+	<string>510408589992</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.example.pingoLearnPractical</string>
 	<key>PROJECT_ID</key>
-	<string>urbanswiftdelivery-532fd</string>
+	<string>test-project-f55d4</string>
 	<key>STORAGE_BUCKET</key>
-	<string>urbanswiftdelivery-532fd.appspot.com</string>
+	<string>test-project-f55d4.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -31,6 +31,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:438155285660:ios:882af26bfdc7f68c944959</string>
+	<string>1:510408589992:ios:a57db2a5b3834e80c2389d</string>
 </dict>
 </plist>

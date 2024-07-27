@@ -9,11 +9,13 @@ import 'package:pingo_learn_practical/ui/signup_screen/bloc/auth_event.dart';
 import 'firebase_options.dart';
 import 'infrastructure/app_routes/name_routes.dart';
 import 'infrastructure/repository/auth_repository.dart';
+import 'infrastructure/service/remote_config_service.dart';
 
 Future<void> main() async {
-
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
+  await RemoteConfigService.getInstance();
+
   runApp(const MyApp());
 }
 

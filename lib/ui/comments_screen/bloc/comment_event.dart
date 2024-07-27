@@ -5,6 +5,13 @@ abstract class CommentEvent extends Equatable {
   List<Object?> get props => [];
 }
 
+class InitializeRemoteConfig extends CommentEvent {
+  InitializeRemoteConfig();
+
+  @override
+  List<Object?> get props => [];
+}
+
 class FetchComments extends CommentEvent {
   FetchComments();
 

@@ -42,6 +42,8 @@ dependencies:
   cloud_firestore:
   equatable:
   http:
+  firebase_remote_config:
+
 
 dev_dependencies:
   flutter_test:

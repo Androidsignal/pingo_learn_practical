@@ -47,31 +47,32 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCTexbS3Xa_iCdt0vezii9t1io7-_XUf9s',
-    appId: '1:438155285660:web:6ae40dc88f7af992944959',
-    messagingSenderId: '438155285660',
-    projectId: 'urbanswiftdelivery-532fd',
-    authDomain: 'urbanswiftdelivery-532fd.firebaseapp.com',
-    storageBucket: 'urbanswiftdelivery-532fd.appspot.com',
-    measurementId: 'G-7Z11GV3CSY',
+    apiKey: 'AIzaSyBVKtI4Lfkh54-QLOAXKCDpi98drEmHms0',
+    appId: '1:510408589992:web:7619532db6652efec2389d',
+    messagingSenderId: '510408589992',
+    projectId: 'test-project-f55d4',
+    authDomain: 'test-project-f55d4.firebaseapp.com',
+    storageBucket: 'test-project-f55d4.appspot.com',
+    measurementId: 'G-5T3JSCC6G7',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAfvkhN7VSJjB6-Ty9xRzlGNNQhntWPWQQ',
-    appId: '1:438155285660:android:1018051faef37689944959',
-    messagingSenderId: '438155285660',
-    projectId: 'urbanswiftdelivery-532fd',
-    storageBucket: 'urbanswiftdelivery-532fd.appspot.com',
+    apiKey: 'AIzaSyAMa_LgJDcp4F9ZqUY5Ai9l9Dlm9iGpxYg',
+    appId: '1:510408589992:android:109df600b25b3e9fc2389d',
+    messagingSenderId: '510408589992',
+    projectId: 'test-project-f55d4',
+    storageBucket: 'test-project-f55d4.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyC76yQuFxlJsij7euGUm51Rzzce7JLUIg4',
-    appId: '1:438155285660:ios:882af26bfdc7f68c944959',
-    messagingSenderId: '438155285660',
-    projectId: 'urbanswiftdelivery-532fd',
-    storageBucket: 'urbanswiftdelivery-532fd.appspot.com',
-    androidClientId: '438155285660-tlq7gglg311tngk5c9083ek7kqrn43u5.apps.googleusercontent.com',
-    iosClientId: '438155285660-7f0phq03tn2b3q6mmu8nod18s8j79h61.apps.googleusercontent.com',
+    apiKey: 'AIzaSyCYnDT04rq8hZntHg2eaKOFdkdkd2U9NDM',
+    appId: '1:510408589992:ios:a57db2a5b3834e80c2389d',
+    messagingSenderId: '510408589992',
+    projectId: 'test-project-f55d4',
+    storageBucket: 'test-project-f55d4.appspot.com',
+    androidClientId: '510408589992-1pj2sb0ope0heb1j0p2puvf9uannlgpk.apps.googleusercontent.com',
+    iosClientId: '510408589992-3ecgnhcam5jamig70hs29i6k20pivm4b.apps.googleusercontent.com',
     iosBundleId: 'com.example.pingoLearnPractical',
   );
+
 }
